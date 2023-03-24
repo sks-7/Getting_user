@@ -5,6 +5,10 @@
 
 ---
 
+## Time Taken
+
+- Take 20 min for making this assignment.
+
 ## Getting_user
 
 - To get started, you'll need to have Node.js and npm (Node Package Manager) installed on your computer. You can download and install Node.js from the official website: https://nodejs.org/en/
